@@ -243,17 +243,17 @@ The following visualizations were selected to highlight important customer, camp
 
 - ## 📈  Visualisations
 - 
-![Age Distribution](visualization/age_distribution.PNG)
+![Age Distribution](visualizations/age_distribution.PNG)
 
-![Subscription by Age](visualization/subscription_by_age.PNG)
+![Subscription by Age](visualizations/subscription_by_age.PNG)
 
-![Job Subscription](visualization/job_subscription.PNG)
+![Job Subscription](visualizations/job_subscription.PNG)
 
-![Contact Method](visualization/contact_method.PNG)
+![Contact Method](visualizations/contact_method.PNG)
 
-![Monthly Subscription](visualization/monthly_subscription.PNG)
+![Monthly Subscription](visualizations/monthly_subscription.PNG)
 
-![Economic Correlation Heatmap](visualization/economic_correlation_heatmap.PNG)
+![Economic Correlation Heatmap](visualizations/economic_correlation_heatmap.PNG)
 
 
 ## 📌 Data & Analysis Considerations
