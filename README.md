@@ -241,9 +241,8 @@ The following visualizations were selected to highlight important customer, camp
 | **Economic Correlation Heatmap** | Shows relationships between key economic indicators in the dataset. |
 | **Subscription Distribution** | Displays the overall proportion of customers who subscribed and did not subscribe. |
 
-
-## 📈 Visualisations
-
+- ## 📈  Visualisations
+- 
 ![Age Distribution](visualizations/age_distribution.png)
 
 ![Subscription by Age](visualizations/subscription_by_age.png)
