@@ -241,17 +241,13 @@ The following visualizations were selected to highlight important customer, camp
 | **Economic Correlation Heatmap** | Shows relationships between key economic indicators in the dataset. |
 | **Subscription Distribution** | Displays the overall proportion of customers who subscribed and did not subscribe. |
 
-- ## 📈  Visualisations
+## 📈 Visualisations
+
 ![Age Distribution](visualizations/age_distribution.png)
-
 ![Subscription by Age](visualizations/subscription_by_age.png)
-
 ![Job Subscription](visualizations/job_subscription.png)
-
 ![Contact Method](visualizations/contact_method.png)
-
 ![Monthly Subscription](visualizations/monthly_subscription.png)
-
 ![Economic Correlation Heatmap](visualizations/economic_correlation_heatmap.png)
 
 ## 📌 Data & Analysis Considerations
@@ -286,7 +282,7 @@ Bank-Direct-Marketing/
     ├── 📊 job_subscription.png
     ├── 📊 contact_method.png
     ├── 📊 monthly_subscription.png
-    └── 📊 economic_correlation_heatmap.png
+    └── 📊 economi_correlation_heatmap.png
 ```
  👤 Author
 
