@@ -222,11 +222,11 @@ Previous Campaign Outcomes: Previous contacts and previous campaign results.
 
 > **Better customer targeting, effective communication channels, and appropriate campaign timing can improve marketing effectiveness more than simply increasing the number of calls.**
 > 
-> ## 📊 Selected Visualisations
+> ## 📊 Selected Visualizations
 
 The following visualizations were selected to highlight important customer, campaign, and subscription patterns:
 
-|## 📈 Key Visualisations
+|## 📈 Key Visualizations
 
 | **Visualization** | **Purpose** |
 |---|---|
@@ -241,7 +241,7 @@ The following visualizations were selected to highlight important customer, camp
 | **Economic Correlation Heatmap** | Shows relationships between key economic indicators in the dataset. |
 | **Subscription Distribution** | Displays the overall proportion of customers who subscribed and did not subscribe. |
 
-- ## 📈  Visualisations
+- ## 📈  Visualizations
 - 
 ![Age Distribution](visualizations/age_distribution.PNG)
 
