@@ -243,12 +243,56 @@ The following visualizations were selected to highlight important customer, camp
 
 ## 📈 Visualisations
 
+
 ![Age Distribution](visualizations/age_distribution.png)
+
 ![Subscription by Age](visualizations/subscription_by_age.png)
+
 ![Job Subscription](visualizations/job_subscription.png)
+
 ![Contact Method](visualizations/contact_method.png)
+
 ![Monthly Subscription](visualizations/monthly_subscription.png)
+
 ![Economic Correlation Heatmap](visualizations/economic_correlation_heatmap.png)
+
+## 📈 Visualisations
+
+| | |
+| :---: | :---: |
+| **Age Distribution** <br> ![Age Distribution](visualizations/age_distribution.png) | **Subscription by Age** <br> ![Subscription by Age](visualizations/subscription_by_age.png) |
+| **Job Subscription** <br> ![Job Subscription](visualizations/job_subscription.png) | **Contact Method** <br> ![Contact Method](visualizations/contact_method.png) |
+| **Monthly Subscription** <br> ![Monthly Subscription](visualizations/monthly_subscription.png) | **Economic Correlation Heatmap** <br> ![Economic Correlation Heatmap](visualizations/economic_correlation_heatmap.png) |
+
+
+## 📈 Visualisations
+
+<p align="center">
+  <img src="visualizations/age_distribution.png" width="80%" alt="Age Distribution" />
+</p>
+
+<p align="center">
+  <img src="visualizations/subscription_by_age.png" width="80%" alt="Subscription by Age" />
+</p>
+
+<p align="center">
+  <img src="visualizations/job_subscription.png" width="80%" alt="Job Subscription" />
+</p>
+
+<p align="center">
+  <img src="visualizations/contact_method.png" width="80%" alt="Contact Method" />
+</p>
+
+<p align="center">
+  <img src="visualizations/monthly_subscription.png" width="80%" alt="Monthly Subscription" />
+</p>
+
+<p align="center">
+  <img src="visualizations/economic_correlation_heatmap.png" width="80%" alt="Economic Correlation Heatmap" />
+</p>
+
+
+
 
 ## 📌 Data & Analysis Considerations
 
