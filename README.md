@@ -294,7 +294,7 @@ Bank-Direct-Marketing/
 
 The PowerPoint presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
 
-**Presentation:** [View / Download PowerPoint](Bank_Direct_Marketing_Presentation.pptx)
+**Presentation:** [View / Download PowerPoint](Bank_Direct_Marketing_Campaigns_Analysis_.pptx)
 
 ### Presentation Highlights
 - Project overview and business objective
