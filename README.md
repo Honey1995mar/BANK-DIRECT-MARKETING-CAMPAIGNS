@@ -39,6 +39,7 @@ The main objective of this project is to identify meaningful patterns and relati
 The dataset and Jupyter Notebook are included to support reproducibility and allow users to review the analysis process and results.
 - `bank-direct-marketing-campaigns.csv` – Project dataset
 - `Bank_Direct_Marketing_Analysis.ipynb` – Analysis notebook
+- Bank_Direct_Marketing_Presentation.pptx  – Project presentation summarizing the analysis, key findings, visualizations, and business recommendations.
 - 
 ## 🛠️ Tools & Technologies
 
@@ -277,12 +278,11 @@ The following visualizations were selected to highlight important customer, camp
 
 ```text
 Bank-Direct-Marketing/
-│
-├── 📓 Bank_Direct_Marketing_Analysis.ipynb
-├── 📄 bank-direct-marketing-campaigns.csv
-├── 📄 README.md
-│
-└── 📁 visualizations/
+├── Bank_Direct_Marketing_Analysis.ipynb
+├── bank-direct-marketing-campaigns.csv
+├── Bank_Direct_Marketing_Presentation.pptx
+├── README.md
+└── visualizations/
     ├── 📊 age_distribution.png
     ├── 📊 subscription_by_age.png
     ├── 📊 job_subscription.png
@@ -290,6 +290,21 @@ Bank-Direct-Marketing/
     ├── 📊 monthly_subscription.png
     └── 📊 economi_correlation_heatmap.png
 ```
+## 📊 Project Presentation
+
+The PowerPoint presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
+
+**Presentation:** [View / Download PowerPoint](Bank_Direct_Marketing_Presentation.pptx)
+
+### Presentation Highlights
+- Project overview and business objective
+- Dataset description and data preprocessing
+- Exploratory Data Analysis (EDA)
+- Customer subscription patterns
+- Campaign performance and key insights
+- Business recommendations and conclusion
+
+
  👤 Author
 
  Honey Stanly
