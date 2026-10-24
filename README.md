@@ -293,16 +293,10 @@ Bank-Direct-Marketing/
     ├── 📊 monthly_subscription.png
     └── 📊 economi_correlation_heatmap.png
 ```
+
 ## 📊 Project Presentation
 
 The PowerPoint presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
-
-
-## 📊 Project Presentation
-
-The presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
-
-
 
 ### Slide 1: Project Overview
 
@@ -311,10 +305,8 @@ The presentation summarizes the analysis, key findings, business insights, and r
 ### Slide 2: Key Findings and Insights
 
 ![Key Findings and Insights](slides/Key%20Findings%20and%20Insights.png)
-
-
-
-### Presentation Highlights
+ 
+  Presentation Highlights
 - Project overview and business objective
 - Dataset description and data preprocessing
 - Exploratory Data Analysis (EDA)
