@@ -277,14 +277,14 @@ The following visualizations were selected to highlight important customer, camp
 ## 📁 Repository Structure
 
 ```text
-Bank-Direct-Marketing/
+BANK-DIRECT-MARKETING-CAMPAIGNS/
 ├── Bank_Direct_Marketing_Analysis.ipynb
 ├── bank-direct-marketing-campaigns.csv
 ├── Bank_Direct_Marketing_Presentation.pptx
 ├── README.md
 ├── slide/
-│   ├── 📊 project_overview.png
-│   └── 📊 key_findings_insights.png
+│   ├── project_overview.png
+│   └── key_findings_insights.png
 └── visualizations/
     ├── 📊 age_distribution.png
     ├── 📊 subscription_by_age.png
