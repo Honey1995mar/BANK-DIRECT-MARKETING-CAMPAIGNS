@@ -277,6 +277,8 @@ The following visualizations were selected to highlight important customer, camp
 - Analyze campaign trends over time.
 - Build interactive dashboards for better reporting.
 - Use additional data to improve insights.
+
+- 
 ## 📁 Repository Structure
 
 ```text
@@ -301,15 +303,14 @@ BANK-DIRECT-MARKETING-CAMPAIGNS/
 
 The PowerPoint presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
 
-
 ### Slide 1: Project Overview
 
 ![Project Overview](slide/project_overview.png)
 
-
 ### Slide 2: Key Findings and Insights
 
 ![Key Findings and Insights](slide/key_findings_insights.png)
+
 
 ### Presentation Highlights
 
