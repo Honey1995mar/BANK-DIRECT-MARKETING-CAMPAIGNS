@@ -282,7 +282,7 @@ Bank-Direct-Marketing/
 ├── bank-direct-marketing-campaigns.csv
 ├── Bank_Direct_Marketing_Presentation.pptx
 ├── README.md
-├── slides/
+├── slide/
 │   ├── 📊 project_overview.png
 │   └── 📊 key_findings_insights.png
 └── visualizations/
