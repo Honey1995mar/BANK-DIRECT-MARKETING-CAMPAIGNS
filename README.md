@@ -306,16 +306,14 @@ The PowerPoint presentation summarizes the analysis, key findings, business insi
 
 ![Key Findings and Insights](slides/Key%20Findings%20and%20Insights.png)
 
+### Presentation Highlights
 
- 
-  Presentation Highlights
 - Project overview and business objective
 - Dataset description and data preprocessing
 - Exploratory Data Analysis (EDA)
 - Customer subscription patterns
 - Campaign performance and key insights
 - Business recommendations and conclusion
-
 
  👤 Author
 
