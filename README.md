@@ -287,7 +287,7 @@ BANK-DIRECT-MARKETING-CAMPAIGNS/
 ├── bank-direct-marketing-campaigns.csv
 ├── Bank_Direct_Marketing_Presentation.pptx
 ├── README.md
-├── slide/
+├── Slide/
 │   ├── project_overview.png
 │   └── key_findings_insights.png
 └── visualizations/
@@ -305,11 +305,11 @@ The PowerPoint presentation summarizes the analysis, key findings, business insi
 
 ### Slide 1: Project Overview
 
-![Project Overview](slide/project_overview.png)
+![Project Overview](Slide/project_overview.png)
 
 ### Slide 2: Key Findings and Insights
 
-![Key Findings and Insights](slide/key_findings_insights.png)
+![Key Findings and Insights](Slide/key_findings_insights.png)
 
 
 ### Presentation Highlights
