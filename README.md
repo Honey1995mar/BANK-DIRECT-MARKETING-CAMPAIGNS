@@ -282,6 +282,9 @@ Bank-Direct-Marketing/
 ├── bank-direct-marketing-campaigns.csv
 ├── Bank_Direct_Marketing_Presentation.pptx
 ├── README.md
+├── slides/
+│   ├── 📊 Project Overview.png
+│   └── 📊 Key Findings and Insights.png
 └── visualizations/
     ├── 📊 age_distribution.png
     ├── 📊 subscription_by_age.png
@@ -294,7 +297,18 @@ Bank-Direct-Marketing/
 
 The PowerPoint presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
 
-**Presentation:** [View / Download PowerPoint](Bank_Direct_Marketing_Campaign_Analysis(2)_.pptx)
+
+## 📊 Project Presentation
+
+The presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
+
+### Slide 1: Project Overview
+
+![Project Overview](slides/Project%20Overview.png)
+
+### Slide 2: Key Findings and Insights
+
+![Key Findings and Insights](slides/Key%20Findings%20and%20Insights.png)
 
 ### Presentation Highlights
 - Project overview and business objective
