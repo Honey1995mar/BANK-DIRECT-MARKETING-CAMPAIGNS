@@ -302,6 +302,8 @@ The PowerPoint presentation summarizes the analysis, key findings, business insi
 
 The presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
 
+
+
 ### Slide 1: Project Overview
 
 ![Project Overview](slides/Project%20Overview.png)
@@ -309,6 +311,8 @@ The presentation summarizes the analysis, key findings, business insights, and r
 ### Slide 2: Key Findings and Insights
 
 ![Key Findings and Insights](slides/Key%20Findings%20and%20Insights.png)
+
+
 
 ### Presentation Highlights
 - Project overview and business objective
