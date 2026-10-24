@@ -298,13 +298,15 @@ Bank-Direct-Marketing/
 
 The PowerPoint presentation summarizes the analysis, key findings, business insights, and recommendations from the Bank Direct Marketing Campaigns project.
 
+
 ### Slide 1: Project Overview
 
-![Project Overview](slide/project_overview.png)
+![Project Overview](https://github.com/Honey1995mar/BANK-DIRECT-MARKETING-CAMPAIGNS/raw/main/slide/project_overview.png)
 
 ### Slide 2: Key Findings and Insights
 
-![Key Findings and Insights](slide/key_findings_insights.png)
+![Key Findings and Insights](https://github.com/Honey1995mar/BANK-DIRECT-MARKETING-CAMPAIGNS/raw/main/slide/key_findings_insights.png)
+
 
 
 
