@@ -283,8 +283,8 @@ Bank-Direct-Marketing/
 ├── Bank_Direct_Marketing_Presentation.pptx
 ├── README.md
 ├── slides/
-│   ├── 📊 Project Overview.png
-│   └── 📊 Key Findings and Insights.png
+│   ├── 📊 project_overview.png
+│   └── 📊 key_findings_insights.png
 └── visualizations/
     ├── 📊 age_distribution.png
     ├── 📊 subscription_by_age.png
@@ -300,11 +300,13 @@ The PowerPoint presentation summarizes the analysis, key findings, business insi
 
 ### Slide 1: Project Overview
 
-![Project Overview](slides/Project%20Overview.png)
+![Project Overview](slide/project_overview.png)
 
 ### Slide 2: Key Findings and Insights
 
-![Key Findings and Insights](slides/Key%20Findings%20and%20Insights.png)
+![Key Findings and Insights](slide/key_findings_insights.png)
+
+
 
 ### Presentation Highlights
 
