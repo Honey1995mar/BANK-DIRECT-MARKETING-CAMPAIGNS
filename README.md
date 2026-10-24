@@ -286,12 +286,12 @@ BANK-DIRECT-MARKETING-CAMPAIGNS/
 │   ├── project_overview.png
 │   └── key_findings_insights.png
 └── visualizations/
-    ├── 📊 age_distribution.png
-    ├── 📊 subscription_by_age.png
-    ├── 📊 job_subscription.png
-    ├── 📊 contact_method.png
-    ├── 📊 monthly_subscription.png
-    └── 📊 economi_correlation_heatmap.png
+    ├── age_distribution.png
+    ├── subscription_by_age.png
+    ├── job_subscription.png
+    ├── contact_method.png
+    ├── monthly_subscription.png
+    └── economi_correlation_heatmap.png
 ```
 
 ## 📊 Project Presentation
@@ -303,13 +303,10 @@ The PowerPoint presentation summarizes the analysis, key findings, business insi
 
 ![Project Overview](slide/project_overview.png)
 
+
 ### Slide 2: Key Findings and Insights
 
 ![Key Findings and Insights](slide/key_findings_insights.png)
-
-
-
-
 
 ### Presentation Highlights
 
