@@ -305,6 +305,8 @@ The PowerPoint presentation summarizes the analysis, key findings, business insi
 ### Slide 2: Key Findings and Insights
 
 ![Key Findings and Insights](slides/Key%20Findings%20and%20Insights.png)
+
+
  
   Presentation Highlights
 - Project overview and business objective
